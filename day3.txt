@@ -1,2 +1,3 @@
 ini awalan dari komputer A
 tambahan dari komputer B
+tambahan dari komputer A
